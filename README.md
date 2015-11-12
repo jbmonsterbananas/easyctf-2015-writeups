@@ -1,1 +1,1 @@
-# easyctf-2015-writeups
+# EasyCTF 2015 Write-ups
