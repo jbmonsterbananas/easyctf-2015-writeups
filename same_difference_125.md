@@ -24,4 +24,4 @@ $ diff master_copy.txt suspicious.txt
 > easyctf{60a57b3974029aa012e66b05f122748b}
 ```
 
-flag = `easyctf{17c85a939e5ee1b0b0e00ed7187d11f7}`
+flag = `easyctf{60a57b3974029aa012e66b05f122748b}`
