@@ -28,3 +28,5 @@ public class program{
 	
 }
 ```
+
+flag = `easyctf{welc0me_two_easyCtf}`
