@@ -51,4 +51,4 @@ Running this code or equivalent Python code will result in the flag.
 
 flag = `easyctf{?v=8ruJBKFrRCk}`
 
-BTW, check out this cool link I found, [www.youtube.com/watch?v=8ruJBKFrRCk](www.youtube.com/watch?v=8ruJBKFrRCk)
+BTW, check out this cool link I found, [www.youtube.com/watch?v=8ruJBKFrRCk](http://www.youtube.com/watch?v=8ruJBKFrRCk)
